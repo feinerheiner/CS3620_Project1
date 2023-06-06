@@ -1,0 +1,9 @@
+Welcome to Zombie Run. The point of the game is to make it out of the building. You will be faced with
+questions. Your choices will impact the outcome of the game. 
+Choose wisely.
+
+You find yourself in an empty room with 3 doors one to the left, right, and directly in front of you.
+Choose which door to go through.(Left/Front/Right)
+You open the door to a bathroom. You hear a wet dripping sound. A Zombie jumps out of the stall
+and bites your neck.You did not escape. 
+The End
